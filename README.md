@@ -20,7 +20,7 @@ Navigate to Extensions and add Liveserver
 https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 ```
 
-Open VS Code and create a folder named "Intro_To_HTML" create two files named `index.html` and `index.css`
+Open VS Code and create a folder named "Halloween_Web" create two files named `index.html` and `index.css`
 
 ## How do websites work?
 
