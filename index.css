@@ -1,9 +1,9 @@
 html, body {
-    background-color: orangered;
+    background-color: orange;
 }
 
 .bordered {
-    border: thick dashed blue;
+    border: thick dashed orange;
 }
 
 p {
@@ -28,4 +28,5 @@ p {
 /* give divs a different background color */
 div {
     background-color: aliceblue;    /* this is a real named color in CSS! */
+    
 }
