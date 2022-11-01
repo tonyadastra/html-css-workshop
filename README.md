@@ -73,7 +73,7 @@ For example
 
 ```
 <!--
-html>
+<html>
 
 <head>My First Website</head>
 
@@ -158,7 +158,7 @@ The DIV Tag stand for 'Division' and it does not modify your text by itself. It 
 Update your HTML to apply the `<div></div>` tag to close the items within your body.
 
 ```
-html>
+<html>
 
 <head>
 <!-Place Cool Links here!--->
